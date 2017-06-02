@@ -5,7 +5,7 @@ Thanks for your interest! 😄
 ## [_Doctor Discovery_](https://github.com/gravytates/doctor_discovery)
   A streamlined app using the BetterDoctor API that allows users to search for doctors based on condition, name, or specialization. Site includes doctor profiles, pictures, addresses and phone numbers.
 
-## [_tomkaneart.com_]()
+## [_tomkaneart.com_](https://github.com/akane0915/tom-kane-art-website.git)
   Repository is tbd. Tom Kane is a local painter, and this section is dedicated to host the code our group will use to create the site.
 
 ## [_Carbon Estimator_](https://github.com/gravytates/carbon-estimator)
