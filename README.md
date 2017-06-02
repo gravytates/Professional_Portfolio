@@ -13,6 +13,9 @@ Thanks for your interest! 😄
 
 ## [_Career Quest_](https://github.com/gravytates/career_quest)
   Group project using Ruby to create an application for organizing your job search. Users can create unique accounts, and store and access data for all things job-related in their career quest.
+  
+## [_Ask Ember_](https://github.com/gravytates/ask-me-anything.git)
+  An ember site backed by firebase. The application creates a community space for posting questions specific to the javascript ember-cli and allows the community to crowd source answers. 
 
 ## [_Word Definer_](https://github.com/gravytates/Word_Definer)
 A website for children, allowing them to add words and pictures together with their own unique and zany definitions! Get hip.
