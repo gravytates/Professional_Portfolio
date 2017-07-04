@@ -1,13 +1,16 @@
 # Professional Portfolio
 A central hub to highlight my projects! 😄
 
+## [_Mario's Specialty Food Products ](https://github.com/gravytates/mario_food)
+  A rails site featuring bcrypt authentication for users, custom scopes, callbacks, simpleNav, factory girl, and validations. Database is seeded with chuck norris quotes written by superheroes via the faker gem. The site is well suited to show off all of Mario's products and allows customers with authenticated profiles to write reviews and rate the products themselves.
+
 ## [_Restoration Station_](https://github.com/gravytates/restoration-station)
   An angular2 and firebase backed website for managing watershed restoration crews. Includes admin authentication through google and is hosted on firebase.
 
 ## [_Doctor Discovery_](https://github.com/gravytates/doctor_discovery)
   A streamlined app using the BetterDoctor API that allows users to search for doctors based on condition, name, or specialization. Site includes doctor profiles, pictures, addresses and phone numbers.
 
-## [_tomkaneart.com_](https://github.com/akane0915/tom-kane-art-website.git)
+## [_TomKaneArt.com_](https://github.com/akane0915/tom-kane-art-website.git)
   Tom Kane is a local painter, and this section is dedicated to host the code our group will use to create the site.
 
 ## [_Carbon Estimator_](https://github.com/gravytates/carbon-estimator)
