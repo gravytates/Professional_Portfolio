@@ -1,7 +1,7 @@
 # Professional Portfolio
 A central hub to highlight my projects! 😄
 
-## [ Mario's Specialty Food Products ](https://github.com/gravytates/mario_food)
+## [_Mario's Specialty Food Products_](https://github.com/gravytates/mario_food)
   A rails site featuring bcrypt authentication for users, custom scopes, callbacks, simpleNav, factory girl, and validations. Database is seeded with chuck norris quotes written by superheroes via the faker gem. The site is well suited to show off all of Mario's products and allows customers with authenticated profiles to write reviews and rate the products themselves.
 
 ## [_Restoration Station_](https://github.com/gravytates/restoration-station)
