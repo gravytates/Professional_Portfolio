@@ -1,8 +1,8 @@
 # Professional Portfolio
 A central hub to highlight my projects! 😄
 
-## [_Mario's Specialty Food Products_](https://github.com/gravytates/mario_food)
-  A rails site featuring bcrypt authentication for users, custom scopes, callbacks, simpleNav, factory girl, and validations. Database is seeded with chuck norris quotes written by superheroes via the faker gem. The site is well suited to show off all of Mario's products and allows customers with authenticated profiles to write reviews and rate the products themselves.
+## [_Grady's Games_](https://github.com/gravytates/gradys_games)
+  A Rails site for gaming! Grady's Games serves as a hub for users view game details, write and read reviews others have left. Authorization using Devise allows Users to sign up, and write, and track their reviews. Admin access is available to control game availability and its details, and which potentially inappropriate reviews to moderate. Seeded with the faker gem, much of this site's content is a bunch of fun nonsense.
 
 ## [_Restoration Station_](https://github.com/gravytates/restoration-station)
   An angular2 and firebase backed website for managing watershed restoration crews. Includes admin authentication through google and is hosted on firebase.
