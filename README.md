@@ -5,7 +5,7 @@ A central hub to highlight my projects! 😄
   A Rails site for gaming! Grady's Games serves as a hub for users view game details, write and read reviews others have left. Authorization using Devise allows Users to sign up, and write, and track their reviews. Admin access is available to control game availability and its details, and which potentially inappropriate reviews to moderate. Seeded with the faker gem, much of this site's content is a bunch of fun nonsense.
   
 ## [_TomKaneArt.com_](https://github.com/akane0915/tom-kane-art-website.git)
-  Tom Kane is a local painter, and this is an in-progress website for him to sell his paintings. Features Stripe, AWS, Paperclip, Devise, and Action Mailer.
+  Tom Kane is a local painter, and this is a freelance in-progress website for him to sell his paintings. Features Stripe, AWS, Paperclip, Devise, and Action Mailer.
   
 ## [_Doctor Discovery_](https://github.com/gravytates/doctor_discovery)
   A streamlined app using the BetterDoctor API that allows users to search for doctors based on condition, name, or specialization. Site includes doctor profiles, pictures, addresses and phone numbers.
