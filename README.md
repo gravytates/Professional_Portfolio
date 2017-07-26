@@ -1,6 +1,9 @@
 # Professional Portfolio
 A central hub to highlight my projects! 😄
 
+## [_Career Quest_](https://github.com/gravytates/career_quest)
+  Group project using Ruby to create an application for organizing your job search. Authenticated Users with secure, encrypted passwords can create unique accounts, and store and access data for all things job-related in their career quest. 
+
 ## [_Grady's Games_](https://github.com/gravytates/gradys_games)
   A Rails site for gaming! Grady's Games serves as a hub for users view game details, write and read reviews others have left. Authorization using Devise allows Users to sign up, and write, and track their reviews. Admin access is available to control game availability and its details, and which potentially inappropriate reviews to moderate. Seeded with the faker gem, much of this site's content is a bunch of fun nonsense.
   
@@ -15,9 +18,6 @@ A central hub to highlight my projects! 😄
   
 ## [_Doctor Discovery_](https://github.com/gravytates/doctor_discovery)
   A streamlined app using the BetterDoctor API that allows users to search for doctors based on condition, name, or specialization. Site includes doctor profiles, pictures, addresses and phone numbers.
-  
-## [_Career Quest_](https://github.com/gravytates/career_quest)
-  Group project using Ruby to create an application for organizing your job search. Users can create unique accounts, and store and access data for all things job-related in their career quest.
   
 ## [_Carbon Estimator_](https://github.com/gravytates/carbon-estimator)
   A group project using public and user provided information to estimate a person's carbon monthly carbon emission. Statistical t-test is included to compare results between two independent groups of results! 
