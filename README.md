@@ -9,7 +9,10 @@ A central hub to highlight my projects! 😄
   [_See the Beta!_](http://tom-kane-art.herokuapp.com/)
 
 ## [_Grady's Games_](https://github.com/gravytates/gradys_games)
-  A Rails site for gaming! Grady's Games serves as a hub for users view game details, write and read reviews others have left. Authorization using Devise allows Users to sign up, and write, and track their reviews. Admin access is available to control game availability and its details, and which potentially inappropriate reviews to moderate. Seeded with the faker gem, much of this site's content is a bunch of fun nonsense.
+  A Rails site for gaming! Grady's Games serves as a hub for users to view game details, write and read reviews others have left, and manage their own personal accounts. Authorization using Devise and backed up with PostgreSQL, this site allows users to sign up, write, and track their reviews for their favorite games. Additional admin access is available to control game availability and its details, and which potentially inappropriate reviews to moderate. Seeded with the faker gem, much of this site's content is a bunch of fun nonsense.
+  
+## [_University_API_] (https://github.com/gravytates/university_api)
+  This API built in Rails and backed by PostgreSQL returns University data and its associated reviews via serialization. Authorized post endpoints are handled with Devise and JSON Web Tokens (JWT). Pagination options and custom scopes for name, description, population, and even mascots allow further control over endpoints.
 
 ## [_Restoration Station_](https://github.com/gravytates/restoration-station)
   An angular2 and firebase backed website for managing watershed restoration crews. Includes admin authentication through google and is hosted on firebase.
@@ -22,6 +25,8 @@ A central hub to highlight my projects! 😄
   
 ## [_Carbon Estimator_](https://github.com/gravytates/carbon-estimator)
   A group project using public and user provided information to estimate a person's carbon monthly carbon emission. Statistical t-test is included to compare results between two independent groups of results! 
+  
+
   
 
 
