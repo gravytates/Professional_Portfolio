@@ -1,7 +1,16 @@
 # Professional Portfolio
 A central hub to highlight my projects! 😄
 
-## [_TomKaneArt.com_](https://github.com/akane0915/tom-kane-art-website.git)
+## Contact
+**[Website:](http://gradyshelton.com/) gradyshelton.com
+**[LinkedIn:](https://www.linkedin.com/in/grady-shelton/) linkedin.com/in/grady-shelton/
+**Email: gradyish@gmail.com
+**Phone: 503-724-8908
+
+
+## Projects
+
+## [_tomkaneart.com_](https://github.com/akane0915/tom-kane-art-website.git)
   Tom Kane is a local painter, and this fully hosted eCommerce website allows him to show and sell his paintings. Optimized for both web and mobile, peruse this exclusive gallery at your leisure using the devise of your pleasure, and enjoy the finer things in life! Built in Rails, other technologies include Stripe Payments, AWS S3 image hosting, PostgreSQL, Heroku, Paperclip, Devise authentication, and Mailgun.
   [_See the Beta!_](http://tom-kane-art.herokuapp.com/)
 
