@@ -2,10 +2,10 @@
 A central hub to highlight my projects! 😄
 
 ## Contact
-**[Website:](http://gradyshelton.com/) gradyshelton.com
-**[LinkedIn:](https://www.linkedin.com/in/grady-shelton/) linkedin.com/in/grady-shelton/
-**Email: gradyish@gmail.com
-**Phone: 503-724-8908
+* [Website:](http://gradyshelton.com/) gradyshelton.com
+* [LinkedIn:](https://www.linkedin.com/in/grady-shelton/) linkedin.com/in/grady-shelton/
+* Email: gradyish@gmail.com
+* Phone: 503-724-8908
 
 
 ## Projects
