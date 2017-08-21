@@ -26,14 +26,16 @@ A central hub to highlight my projects! 😄
 ## [_Restoration Station_](https://github.com/gravytates/restoration-station)
   An Angular 2 and firebase-backed website for managing watershed restoration crews. Easily track and update member contributions! Custom 2-way sorting allows you to find exactly the people you're looking for. This efficiently concise site includes basic admin authentication through Google and data hosted on firebase's cloud platform.
   
-## [_AnimalBook_](https://github.com/gravytates/animalBook.git)
-  An angular2 and typescript website to assist the local zoo's managers in tracking animal data. Add, edit, view individual animals. Additional functionality includes searching animals by category and viewing zoo-wide statistics.
+## [_Carbon Estimator_](https://github.com/gravytates/carbon-estimator)
+  A group project using public and user provided information to estimate a person's carbon monthly carbon emission. Statistical t-test is included to compare results between two independent groups of results! 
+  
   
 ## [_Doctor Discovery_](https://github.com/gravytates/doctor_discovery)
   A streamlined app using the BetterDoctor API that allows users to search for doctors based on condition, name, or specialization. Site includes doctor profiles, pictures, addresses and phone numbers.
   
-## [_Carbon Estimator_](https://github.com/gravytates/carbon-estimator)
-  A group project using public and user provided information to estimate a person's carbon monthly carbon emission. Statistical t-test is included to compare results between two independent groups of results! 
+## [_AnimalBook_](https://github.com/gravytates/animalBook.git)
+  An angular2 and typescript website to assist the local zoo's managers in tracking animal data. Add, edit, view individual animals. Additional functionality includes searching animals by category and viewing zoo-wide statistics.
+  
   
 
   
