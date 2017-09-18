@@ -12,7 +12,7 @@ A central hub to highlight my projects! 😄
 
 ## [_tomkaneart.com_](https://github.com/akane0915/tom-kane-art-website.git)
   Tom Kane is a local painter, and this fully hosted eCommerce website allows him to show and sell his paintings. Optimized for both web and mobile, peruse this exclusive gallery at your leisure using the devise of your pleasure, and enjoy the finer things in life! Built in Rails, other technologies include Stripe Payments, AWS S3 image hosting, PostgreSQL, Heroku, Paperclip, Devise authentication, and Mailgun.
-  [_See the Beta!_](http://tom-kane-art.herokuapp.com/)
+  [_Experience the site!_](https://www.tomkaneart.com/)
   
 ## [_LunchWith_](https://github.com/teustice/lunchwith)
   A sleek React-Native mobile application which connects developers over lunch. Take all the guesswork out of networking and get to what's important: food, tech, and connections.
